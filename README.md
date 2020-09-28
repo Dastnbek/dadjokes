@@ -12,3 +12,4 @@
 ## Plugins
 
 - axios
+## Delpoyed to [Netlify](https://dadjokesvue.netlify.app/)
